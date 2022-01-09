@@ -1,6 +1,3 @@
-Basketball shoes sales website. Contain landing page features, products category filters, live search for
-products, products detail, product purchases, and payments
-
 <div>
   <img src="/Portfolio/Screenshot from 2022-01-09 20-28-33.png" width="300">
   <img src="/Portfolio/Screenshot from 2022-01-09 20-28-46.png" width="300">
